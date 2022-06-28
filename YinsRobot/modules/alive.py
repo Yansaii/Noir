@@ -9,7 +9,7 @@ from YinsRobot.events import register
 from YinsRobot import telethn as tbot
 
 
-PHOTO = "https://telegra.ph/file/a78aae675c82a067d9437.jpg"
+PHOTO = "https://telegra.ph/file/1daf4f85a5695c679f145.jpg"
 
 @register(pattern=("/alive"))
 async def awake(event):
