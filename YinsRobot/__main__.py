@@ -58,9 +58,8 @@ from telegram.utils.helpers import escape_markdown
 
 
 PM_START_TEXT = """
-(https://telegra.ph/file/6c937e656380c07997dfc.jpg)
 *Hello {} !*
-✪ I'm an ᴢᴇᴀ management bot [✨]
+✪ I'm an ᴢᴇᴀ management bot [✨](https://telegra.ph/file/6c937e656380c07997dfc.jpg)
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
